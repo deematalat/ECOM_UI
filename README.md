@@ -1,6 +1,6 @@
 ## Flutter Ecommerce UI App
 This is a Flutter Ecommerce UI app that allows users to browse and purchase items from an online store. The app features a sleek and modern design, and utilizes various Flutter widgets and libraries to create a seamless user experience.
-
+<img src="assets/images/ecomfram.png" alt="Ecomapp" title="Optional title">
 # Features
 Browse products by category or search for items by keyword.
 View product details, including price, description, and customer reviews.
